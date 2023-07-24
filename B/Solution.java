@@ -69,7 +69,7 @@ class Solution {
                 { 'o', 'o', 'o' }
         };
 
-        int days = 1;
+        int days = 2;
 
         int res = numFreshRaspberries(refrigerator, days);
         System.out.println(res);
